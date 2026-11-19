@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 Score (%),Prediction Time (seconds)
+KNN,96.88,96.9,96.88,96.87,42.4
+SVM,91.84,91.81,91.84,91.81,0.09
+MLP,97.73,97.74,97.73,97.73,0.22
